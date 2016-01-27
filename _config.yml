@@ -1,0 +1,28 @@
+name: wellmaxmetal
+favicon: null
+layout_spectrum: 0.4637376139871776
+typography_spectrum: 0.8794145931024104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5843833989929408
+  lightness: 0.6411081068217754
+  saturation: 0.9471050745341927
+  rhythmicContrast: 0.4964545073453337
+purpose: []
